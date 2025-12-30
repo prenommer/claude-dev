@@ -40,8 +40,9 @@ Le projet contient :
 
 ## 🛠️ Dépendances
 
-- .NET Framework 4.x  
-- Newtonsoft.Json (via NuGet)
+Le projet utilise les bibliothèques externes suivantes :
+- .NET Framework 4.x
+- Newtonsoft.Json (v13, via NuGet) — utilisé pour la sérialisation et la désérialisation JSON.
 
 ---
 
@@ -104,8 +105,9 @@ The project includes:
 
 ## 🛠️ Dependencies
 
-- .NET Framework 4.x  
-- Newtonsoft.Json (via NuGet)
+The project uses the following external libraries:
+- .NET Framework 4.x 
+- Newtonsoft.Json (v13, via NuGet) — used for JSON serialization and deserialization.
 
 ---
 
