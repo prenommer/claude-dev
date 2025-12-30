@@ -33,7 +33,7 @@ Le projet contient :
 
 - `UniversalViewerForm.vb` — logique principale du visualiseur  
 - `UniversalViewerForm.Designer.vb` — interface générée automatiquement  
-- Modules éventuels (ex. `ApplyColor.vb`)  
+- Modules éventuels (ex.  `CsvHelpers.vb`, `DiffTypes.vb`, `GestionFichierJson.vb`, `TomlHelpers.vb`, `Module1.vb`)  
 - Références nécessaires (Newtonsoft.Json)
 
 ---
