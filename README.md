@@ -1,8 +1,6 @@
 # 🌐 Universal Viewer — Visualiseur polyvalent pour Windows  
 *(FR / EN below)*
 
-![Capture d’écran](assets/screenshot.png)
-
 ---
 
 # 🇫🇷 Version française
