@@ -97,7 +97,7 @@ The project includes:
 
 - `UniversalViewerForm.vb` — main viewer logic  
 - `UniversalViewerForm.Designer.vb` — auto‑generated UI  
-- Optional modules (e.g., `ApplyColor.vb`)  
+- Optional modules (e.g., `CsvHelpers.vb`, `DiffTypes.vb`, `GestionFichierJson.vb`, `TomlHelpers.vb`, `Module1.vb`)  
 - Required references (Newtonsoft.Json)
 
 ---
