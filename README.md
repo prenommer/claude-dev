@@ -1,65 +1,39 @@
-# 🌐 Universal Viewer — Visualiseur polyvalent pour Windows  
+# 📝 Prenommer — Renommage intelligent de fichiers
+
 *(FR / EN below)*
 
 ---
 
 # 🇫🇷 Version française
 
-Universal Viewer est un petit visualiseur/éditeur de texte polyvalent pour Windows, développé en VB.NET (WinForms).  
-Il permet d’ouvrir, afficher, modifier et coloriser différents types de fichiers texte, notamment JSON, XML, HTML et INI.
+**Prenommer** est un petit utilitaire Windows permettant de renommer rapidement et proprement des fichiers selon différentes règles simples et pratiques.
 
-![Version](https://img.shields.io/badge/version-v3.7.0.0-blue)
+Il s’agit d’une version compilée prête à l’emploi.  
+Aucun code source n’est inclus dans ce dépôt.
 
----
+## ✨ Fonctionnalités principales
 
-## ✨ Fonctionnalités
+- Renommage rapide de fichiers
+- Nettoyage ou transformation de noms existants
+- Application de règles simples et cohérentes
+- Interface légère et immédiate
 
-- Ouverture et sauvegarde de fichiers texte  
-- Indicateur de modification (`*` dans le titre)  
-- Coloration syntaxique JSON (avec détection d’URL)  
-- Coloration XML / HTML / INI (si modules inclus)  
-- Recherche, copier/coller, annuler/rétablir  
-- Zoom avant/arrière, réinitialisation  
-- Changement de police, couleur du texte et du fond  
-- Suppression des lignes vides  
-- Statistiques du document (lignes, mots, caractères)  
-- Word Wrap activable/désactivable  
+## 📦 Contenu du dépôt
 
----
+- `Prenommer.exe` — application prête à l’emploi  
+- `Prenommer.exe.config` — configuration associée  
+- `version.txt` — numéro de version  
+- `index.html` — page d’accueil du projet  
+- Fichiers `.md` — documentation générale
 
-## 📁 Structure du projet
+## 🚀 Utilisation
 
-Le projet contient :
+1. Télécharger `Prenommer.exe`  
+2. Lancer l’application  
+3. Sélectionner un fichier  
+4. Appliquer les règles de renommage souhaitées
 
-- `UniversalViewerForm.vb` — logique principale du visualiseur  
-- `UniversalViewerForm.Designer.vb` — interface générée automatiquement  
-- Modules éventuels (ex.  `CsvHelpers.vb`, `DiffTypes.vb`, `GestionFichierJson.vb`, `TomlHelpers.vb`, `Module1.vb`)  
-- Références nécessaires (Newtonsoft.Json)
-
----
-
-## 🛠️ Dépendances
-
-Le projet utilise les bibliothèques externes suivantes :
-- .NET Framework 4.x
-- Newtonsoft.Json (v13, via NuGet) — utilisé pour la sérialisation et la désérialisation JSON.
-
----
-
-## 🚀 Compilation
-
-1. Ouvrir le projet dans Visual Studio  
-2. Restaurer les packages NuGet si nécessaire  
-3. Compiler en mode Release  
-4. L’exécutable se trouve dans `bin/Release/`
-
----
-
-## 📦 Téléchargement
-
-Une version compilée est disponible dans l’onglet **Releases** du dépôt.
-
----
+Aucune installation n’est nécessaire.
 
 ## 📜 Licence
 
@@ -70,61 +44,34 @@ Aucune garantie d’usage.
 
 # 🇬🇧 English version
 
-Universal Viewer is a small, versatile text viewer/editor for Windows, developed in VB.NET (WinForms).  
-It allows you to open, display, edit, and colorize various text formats, including JSON, XML, HTML, and INI.
+**Prenommer** is a small Windows utility designed to quickly and cleanly rename files using simple and practical rules.
 
-![Version](https://img.shields.io/badge/version-v3.7.0.0-blue)
+This repository contains a compiled, ready‑to‑use version.  
+No source code is included.
 
----
+## ✨ Main features
 
-## ✨ Features
+- Fast file renaming  
+- Cleaning or transforming existing names  
+- Simple and consistent renaming rules  
+- Lightweight and immediate interface  
 
-- Open and save text files  
-- Modification indicator (`*` in the window title)  
-- JSON syntax highlighting (with URL detection)  
-- XML / HTML / INI highlighting (if modules are included)  
-- Search, copy/paste, undo/redo  
-- Zoom in/out, reset  
-- Change font, text color, and background color  
-- Remove empty lines  
-- Document statistics (lines, words, characters)  
-- Optional Word Wrap  
+## 📦 Repository contents
 
----
+- `Prenommer.exe` — ready‑to‑use application  
+- `Prenommer.exe.config` — associated configuration  
+- `version.txt` — version number  
+- `index.html` — project homepage  
+- `.md` files — general documentation
 
-## 📁 Project structure
+## 🚀 Usage
 
-The project includes:
+1. Download `Prenommer.exe`  
+2. Run the application  
+3. Select a file  
+4. Apply the desired renaming rules  
 
-- `UniversalViewerForm.vb` — main viewer logic  
-- `UniversalViewerForm.Designer.vb` — auto‑generated UI  
-- Optional modules (e.g., `CsvHelpers.vb`, `DiffTypes.vb`, `GestionFichierJson.vb`, `TomlHelpers.vb`, `Module1.vb`)  
-- Required references (Newtonsoft.Json)
-
----
-
-## 🛠️ Dependencies
-
-The project uses the following external libraries:
-- .NET Framework 4.x 
-- Newtonsoft.Json (v13, via NuGet) — used for JSON serialization and deserialization.
-
----
-
-## 🚀 Build instructions
-
-1. Open the project in Visual Studio  
-2. Restore NuGet packages if needed  
-3. Build in Release mode  
-4. The executable will be located in `bin/Release/`
-
----
-
-## 📦 Download
-
-A compiled version is available in the repository’s **Releases** section.
-
----
+No installation required.
 
 ## 📜 License
 
