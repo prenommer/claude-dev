@@ -74,6 +74,31 @@ Aucune garantie d’usage.
 This repository contains a compiled, ready‑to‑use version.  
 No source code is included.
 
+## 📥 Windows Installation Guide
+
+To install **Prenommer**, download the setup file `prenommer_setup_3.8.0.0.exe` from the [Releases](../../releases) section.
+
+> **Note regarding Windows security**:
+> During download or when first launched, **Microsoft Edge** or **Windows Defender SmartScreen** may display a warning message (*"File is not commonly downloaded"* or *"Windows protected your PC"*).
+>
+> **Why this warning?**  
+> This software is a free project. It does not have a paid digital signature certificate (*Unknown publisher*). The file is **completely safe and verified**.
+
+---
+
+### 🛠️ Step-by-Step Unblocking Procedure
+
+#### Step 1: Download in Microsoft Edge
+1. If the download is paused or blocked, open your downloads by pressing `Ctrl + J`.
+2. Hover over the file and click on the **three small dots (`...`)** on the right.
+3. Select **Keep**, then click **Keep anyway**.
+
+#### Step 2: Launching the Installer (SmartScreen)
+1. Double-click on `prenommer_setup_3.8.0.0.exe`.
+2. On the blue *SmartScreen* window, click on the **More info** link.
+3. Click on the **Run anyway** button that appears at the bottom right.
+4. Follow the standard installation wizard.
+
 ## ✨ Main features
 
 - Fast file renaming  
