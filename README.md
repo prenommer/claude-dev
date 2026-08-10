@@ -11,6 +11,31 @@
 Il s’agit d’une version compilée prête à l’emploi.  
 Aucun code source n’est inclus dans ce dépôt.
 
+## 📥 Installation sous Windows
+
+Pour installer **Prénommer**, téléchargez le fichier d'installation `prenommer_setup_3.8.0.0.exe` depuis la section [Releases](../../releases).
+
+> **Note concernant la sécurité Windows** :
+> Lors du téléchargement ou du premier lancement, **Microsoft Edge** ou **Windows Defender SmartScreen** peuvent afficher un message d'avertissement (*"Fichier non fréquemment téléchargé"* ou *"Windows a protégé votre ordinateur"*).
+>
+> **Pourquoi cet avertissement ?**  
+> Ce logiciel est un projet gratuit. Il ne possède pas de certificat de signature numérique payant (*Éditeur inconnu*). Le fichier est **entièrement sain et vérifié**.
+
+---
+
+### 🛠️ Procédure de déblocage pas à pas
+
+#### Step 1 : Téléchargement dans Microsoft Edge
+1. Si le téléchargement est suspendu, ouvrez vos téléchargements en appuyant sur `Ctrl + J`.
+2. Passez la souris sur le fichier, cliquez sur les **trois petits points (`...`)** à droite.
+3. Sélectionnez **Conserver**, puis cliquez sur **Conserver quand même**.
+
+#### Step 2 : Lancement de l'installateur (SmartScreen)
+1. Double-cliquez sur `prenommer_setup_3.8.0.0.exe`.
+2. Sur la fenêtre bleue *SmartScreen*, cliquez sur le lien **Informations complémentaires**.
+3. Cliquez sur le bouton **Exécuter quand même** qui apparaît en bas à droite.
+4. Suivez l'assistant d'installation classique.
+
 ## ✨ Fonctionnalités principales
 
 - Renommage rapide de fichiers
