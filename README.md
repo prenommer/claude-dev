@@ -15,7 +15,7 @@ Aucun code source n’est inclus dans ce dépôt.
 
 Pour installer **Prénommer**, téléchargez le fichier d'installation `prenommer_setup_3.8.0.0.exe` depuis la section [Releases](../../releases).
 
-« Cet exécutable est signé numériquement et a été analysé/validé sans menace par Microsoft Security Intelligence. Si Windows SmartScreen affiche un avertissement temporaire dû à la nouveauté du fichier, vous pouvez lancer l'installation en toute confiance. »
+> **Note:** « Cet exécutable est signé numériquement et a été analysé/validé sans menace par Microsoft Security Intelligence. Si Windows SmartScreen affiche un avertissement temporaire dû à la nouveauté du fichier, vous pouvez lancer l'installation en toute confiance. »
 
 ---
 
